@@ -1,1 +1,1 @@
-# js-goit-workshop
+# goit-js--workshop
